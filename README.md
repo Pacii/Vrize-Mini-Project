@@ -1,5 +1,5 @@
 # Vrize-Mini-Project
-SauceDemo – Playwright + TypeScript (Medior QA Task)
+SauceDemo – Playwright + TypeScript
 Validate that a logged-in user can open the Product Detail Page (PDP) for “Sauce Labs Backpack” and see an enabled “Add to cart” button.
 
 This project uses Playwright + TypeScript with a clean Page Object Model (POM), cross-browser execution (Chromium/Firefox/WebKit), mobile emulation, and ENV/secret handling via .env or JSON.
